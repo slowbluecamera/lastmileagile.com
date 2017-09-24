@@ -1,7 +1,7 @@
 ---
 title: "Hello Post"
 date: 2017-09-24T09:21:31+10:00
-draft: true
+draft: false
 ---
 
 # Hello, world.
